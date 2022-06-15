@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update external-non-major (external non-major bumps)
+      hash: 1be4776500f81f849c40750851fba0b04d4373df
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 20.1.13
+  title: "'Update external-non-major (external non-major bumps)'"
+  date: 2022-06-15T18:26:13.808Z
+- commits:
     - subject: "Links: Stop updating linked_at timestamps"
       hash: 07a932b1af6b51930a58f07fb9156f035da6d06e
       body: |
